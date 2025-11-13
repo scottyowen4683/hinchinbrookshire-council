@@ -1,0 +1,992 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Hinchinbrook Shire Council — MAX Knowledge Base</title>
+</head>
+<body>
+
+<h1>Hinchinbrook Shire Council — Consolidated MAX Knowledge Base</h1>
+
+<p>
+  This document is a structured knowledge base for Hinchinbrook Shire Council.
+  It is designed for use by customer service staff and AI agents, using
+  real Council data where possible and clearly marked guideline service levels
+  (SLAs) that Council can adjust over time.
+</p>
+
+<p>
+  <strong>Important:</strong> For any matters involving public safety or disaster
+  events, always follow the latest official advice from emergency services and
+  Hinchinbrook Shire Council’s Disaster Dashboard.
+</p>
+
+<hr />
+
+<!-- ========================================================= -->
+<!-- 1. COUNCIL OVERVIEW & CONTACTS                           -->
+<!-- ========================================================= -->
+
+<h2>1. Council Overview & Contacts</h2>
+
+<h3>1.1 Local Government Area Snapshot</h3>
+<ul>
+  <li><strong>Name:</strong> Hinchinbrook Shire Council</li>
+  <li><strong>State:</strong> Queensland (North Queensland region)</li>
+  <li><strong>Main town / administrative centre:</strong> Ingham</li>
+  <li><strong>Approximate area:</strong> about 2,800 km²</li>
+  <li><strong>Population:</strong> approximately 11,000 residents (varies over time)</li>
+</ul>
+
+<h3>1.2 Main Contact Details</h3>
+<table border="1" cellpadding="4" cellspacing="0">
+  <tr><th>Item</th><th>Detail</th></tr>
+  <tr>
+    <td>Customer Service Centre (street address)</td>
+    <td>25 Lannercost Street, Ingham QLD 4850</td>
+  </tr>
+  <tr>
+    <td>Postal address</td>
+    <td>PO Box 366, Ingham QLD 4850</td>
+  </tr>
+  <tr>
+    <td>Main phone</td>
+    <td>(07) 4776 4600</td>
+  </tr>
+  <tr>
+    <td>General email</td>
+    <td>council@hinchinbrook.qld.gov.au</td>
+  </tr>
+  <tr>
+    <td>Website</td>
+    <td>https://www.hinchinbrook.qld.gov.au/</td>
+  </tr>
+  <tr>
+    <td>ABN</td>
+    <td>46 291 971 168</td>
+  </tr>
+</table>
+
+<h3>1.3 Customer Service Centre Hours</h3>
+<ul>
+  <li><strong>Days:</strong> Monday to Friday (excluding public holidays)</li>
+  <li><strong>Typical hours:</strong> 8:30am – 5:00pm (subject to change; check website)</li>
+  <li>
+    <strong>After-hours emergencies:</strong> phone (07) 4776 4600. Calls may be diverted
+    to after-hours arrangements for urgent Council matters (roads, water, sewer, etc.).
+  </li>
+</ul>
+
+<h3>1.4 Mayor and Councillors (2024–2028 Electoral Term)</h3>
+<p>
+  Hinchinbrook Shire Council consists of a Mayor and six Councillors, elected at large
+  across the whole Shire (no divisions).
+</p>
+
+<table border="1" cellpadding="4" cellspacing="0">
+  <tr><th>Role</th><th>Name</th><th>Notes</th></tr>
+  <tr>
+    <td>Mayor</td>
+    <td>Cr Ramon Jayo</td>
+    <td>Elected Mayor for the 2024–2028 term.</td>
+  </tr>
+  <tr>
+    <td>Deputy Mayor / Councillor</td>
+    <td>Cr Mary Brown</td>
+    <td>Deputy Mayor and Councillor.</td>
+  </tr>
+  <tr>
+    <td>Councillor</td>
+    <td>Cr Andrew Carr</td>
+    <td>Councillor.</td>
+  </tr>
+  <tr>
+    <td>Councillor</td>
+    <td>Cr Patrick Lynch</td>
+    <td>Councillor.</td>
+  </tr>
+  <tr>
+    <td>Councillor</td>
+    <td>Cr Donna Marbelli</td>
+    <td>Councillor.</td>
+  </tr>
+  <tr>
+    <td>Councillor</td>
+    <td>Cr Kate Milton</td>
+    <td>Councillor.</td>
+  </tr>
+  <tr>
+    <td>Councillor</td>
+    <td>Cr Mark Spina</td>
+    <td>Councillor.</td>
+  </tr>
+</table>
+
+<p>
+  Individual councillor contact details (email and phone) and portfolios are published
+  on the “Mayor and Councillors” page of Council’s website and may change over time.
+</p>
+
+<hr />
+
+<!-- ========================================================= -->
+<!-- 2. CUSTOMER SERVICE & GENERIC SLA                        -->
+<!-- ========================================================= -->
+
+<h2>2. Customer Service & Generic Service Levels</h2>
+
+<p>
+  These timeframes are indicative guidelines only. Hinchinbrook Shire Council can
+  formally adopt or amend customer service standards, which then supersede the
+  values shown below.
+</p>
+
+<h3>2.1 Generic Enquiry and Request Timeframes (Guideline)</h3>
+<table border="1" cellpadding="4" cellspacing="0">
+  <tr>
+    <th>Request Type</th>
+    <th>Indicative Initial Response</th>
+    <th>Indicative Resolution / Action</th>
+    <th>Notes / Council to Confirm</th>
+  </tr>
+  <tr>
+    <td>Simple phone / counter enquiry</td>
+    <td>Immediate, at time of contact</td>
+    <td>Within the same interaction where possible</td>
+    <td>Opening hours must be observed.</td>
+  </tr>
+  <tr>
+    <td>Standard non-urgent online request</td>
+    <td>Within 2 business days (acknowledgement)</td>
+    <td>Within 10–20 business days</td>
+    <td>Includes minor maintenance and information requests.</td>
+  </tr>
+  <tr>
+    <td>Urgent safety-related Council issue</td>
+    <td>Within 2 hours</td>
+    <td>Make safe within 4–24 hours; permanent repair may take longer</td>
+    <td>Example: major pothole, fallen tree blocking local road.</td>
+  </tr>
+  <tr>
+    <td>Formal complaint</td>
+    <td>Within 5 business days (acknowledgement)</td>
+    <td>Within 20–30 business days</td>
+    <td>Complex matters may require more time.</td>
+  </tr>
+  <tr>
+    <td>Complex technical enquiry (planning, legal)</td>
+    <td>Within 5 business days</td>
+    <td>Timeframe advised after initial review</td>
+    <td>Requires assessment by specialist staff.</td>
+  </tr>
+</table>
+
+<hr />
+
+<!-- ========================================================= -->
+<!-- 3. WASTE & RECYCLING                                     -->
+<!-- ========================================================= -->
+
+<h2>3. Waste and Recycling</h2>
+
+<h3>3.1 Kerbside Collection – Overview</h3>
+<ul>
+  <li>Eligible properties are provided with:
+    <ul>
+      <li>One 240L general waste bin (typically red/dark lid); and</li>
+      <li>One 240L recycling bin (typically yellow lid).</li>
+    </ul>
+  </li>
+  <li>Bins should be placed on the kerb the night before collection day,
+      facing the road, lid closed, free from obstructions.</li>
+  <li>Public holidays and severe weather may alter collection schedules.
+      Council issues updated advice via its website, social media and local media.</li>
+</ul>
+
+<h3>3.2 Kerbside Collection Days (Using 2025 Calendar)</h3>
+<p>
+  Specific streets and zones are listed on the official kerbside collection calendar
+  and in the “Don’t Waste Hinchinbrook” app. The following summary is indicative:
+</p>
+
+<table border="1" cellpadding="4" cellspacing="0">
+  <tr>
+    <th>Collection Day</th>
+    <th>Main Areas / Suburbs (Summary)</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>Monday</td>
+    <td>Halifax township and nearby localities such as Foresthome, Cordelia and Lucinda.</td>
+    <td>Coastal and lower Herbert River localities.</td>
+  </tr>
+  <tr>
+    <td>Tuesday</td>
+    <td>Forrest Beach and surrounding residential areas.</td>
+    <td>Beachside community.</td>
+  </tr>
+  <tr>
+    <td>Wednesday</td>
+    <td>Trebonne, Hamleigh and selected rural roads north/west of Ingham.</td>
+    <td>Refer to calendar for exact streets.</td>
+  </tr>
+  <tr>
+    <td>Thursday</td>
+    <td>Parts of Ingham urban area.</td>
+    <td>Multiple streets and precincts.</td>
+  </tr>
+  <tr>
+    <td>Friday</td>
+    <td>Remaining designated Ingham / district areas.</td>
+    <td>Refer to calendar for coverage.</td>
+  </tr>
+</table>
+
+<p>
+  Residents can confirm their specific bin night by:
+</p>
+<ul>
+  <li>Checking the current year kerbside collection calendar (print or PDF).</li>
+  <li>Using the “Don’t Waste Hinchinbrook” app with their property address.</li>
+  <li>Contacting Council on (07) 4776 4600.</li>
+</ul>
+
+<h3>3.3 Missed Bin Collections (Kerbside)</h3>
+<ul>
+  <li>Before lodging a missed bin request, residents should:
+    <ul>
+      <li>Check they used the correct day and placed bins out in time.</li>
+      <li>Ensure the bin was not blocked, overweight or contaminated.</li>
+      <li>Check whether neighbouring bins were serviced.</li>
+    </ul>
+  </li>
+  <li>If genuinely missed:
+    <ul>
+      <li>Contact Council on (07) 4776 4600; or</li>
+      <li>Lodge a request online or via the waste app.</li>
+    </ul>
+  </li>
+</ul>
+
+<h4>3.3.1 Indicative Missed Bin SLA (Guideline)</h4>
+<table border="1" cellpadding="4" cellspacing="0">
+  <tr>
+    <th>Scenario</th>
+    <th>Indicative Response</th>
+    <th>Indicative Resolution</th>
+    <th>Council to Confirm</th>
+  </tr>
+  <tr>
+    <td>Genuine missed service (contractor error)</td>
+    <td>Acknowledged within 1–2 business days</td>
+    <td>Return service or alternative arrangement within 2–3 business days</td>
+    <td>Subject to contractor capacity.</td>
+  </tr>
+  <tr>
+    <td>Non-compliant bin (late set-out, blocked, overweight)</td>
+    <td>Advice within 2–5 business days</td>
+    <td>Usually no extra pickup unless approved</td>
+    <td>Policy to be confirmed by Council.</td>
+  </tr>
+</table>
+
+<h3>3.4 Replacement Bins, Lids, Pins, Wheels and Axles</h3>
+
+<h4>3.4.1 Ownership and Entitlement</h4>
+<ul>
+  <li>Kerbside waste and recycling bins are allocated to the property.</li>
+  <li>Households are generally entitled to one general waste bin and one recycling bin.</li>
+  <li>Residents are responsible for day-to-day care and avoiding damage or misuse.</li>
+</ul>
+
+<h4>3.4.2 Replacement Bins</h4>
+<ul>
+  <li>Residents can request <strong>one free replacement waste bin and/or one free replacement recycling bin per financial year</strong> if the bin is damaged.</li>
+  <li>Requests can be made via:
+    <ul>
+      <li>Phone: (07) 4776 4600</li>
+      <li>Email: council@hinchinbrook.qld.gov.au</li>
+      <li>“Don’t Waste Hinchinbrook” app</li>
+    </ul>
+  </li>
+  <li>Residents should provide:
+    <ul>
+      <li>Property address; and</li>
+      <li>Bin number(s) from the side of the existing bin(s), where possible.</li>
+    </ul>
+  </li>
+  <li>Old bins are normally collected when replacements are delivered.</li>
+  <li>A fee may apply if a bin must be replaced more than once in the same financial year.</li>
+</ul>
+
+<h4>3.4.3 Replacement Lids, Pins, Wheels and Axles</h4>
+<ul>
+  <li>Residents can request free replacement lids, pins and wheels for damaged bins.</li>
+  <li>Requests can be made by phone, email or via the app.</li>
+  <li>Damaged lids during wet season can allow water to fill the bin and create an overweight load.
+      Council recommends replacing cracked lids before the wet season.</li>
+  <li>A fee may apply if lids need to be replaced more than twice in a financial year.</li>
+</ul>
+
+<h4>3.4.4 Indicative SLA – Bin Replacement and Parts (Guideline)</h4>
+<table border="1" cellpadding="4" cellspacing="0">
+  <tr>
+    <th>Request Type</th>
+    <th>Indicative Processing Time</th>
+    <th>Indicative Completion</th>
+    <th>Council to Confirm</th>
+  </tr>
+  <tr>
+    <td>Free replacement bin (damaged)</td>
+    <td>Logged within 1–2 business days</td>
+    <td>Delivery within 5–10 business days</td>
+    <td>Dependent on contractor route schedules.</td>
+  </tr>
+  <tr>
+    <td>Free replacement lids / wheels / pins</td>
+    <td>Logged within 1–2 business days</td>
+    <td>Work completed within 5–10 business days</td>
+    <td>Subject to stock and staff availability.</td>
+  </tr>
+</table>
+
+<h3>3.5 Waste Facilities and Gate Fees (Snapshot)</h3>
+<p>
+  Council’s waste facilities (e.g. Warrens Hill Landfill & Resource Recovery Centre and
+  Halifax facility) operate under a detailed Schedule of Fees and Charges adopted each
+  financial year.
+</p>
+
+<h4>3.5.1 Example Domestic Waste Fees (from a recent Schedule)</h4>
+<p>
+  The following are example fees from a recent schedule. They are subject to annual
+  review and may change in later years:
+</p>
+
+<table border="1" cellpadding="4" cellspacing="0">
+  <tr>
+    <th>Category</th>
+    <th>Item</th>
+    <th>Example Fee</th>
+    <th>Unit</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>Domestic general waste</td>
+    <td>Car load (using waste voucher)</td>
+    <td>$12.50</td>
+    <td>Per load</td>
+    <td>Domestic customers; vouchers may provide free or discounted trips.</td>
+  </tr>
+  <tr>
+    <td>Domestic general waste</td>
+    <td>Van / Ute</td>
+    <td>$20.00</td>
+    <td>Per load</td>
+    <td>Domestic customers; minimum charges apply.</td>
+  </tr>
+  <tr>
+    <td>Clean fill</td>
+    <td>Clean fill (suitable material)</td>
+    <td>$0.00</td>
+    <td>Per tonne</td>
+    <td>Accepted without charge subject to site and material requirements.</td>
+  </tr>
+</table>
+
+<p>
+  For all other waste items (tyres, mattresses, whitegoods, bulk loads, green waste,
+  hazardous materials etc.) the official <em>Hinchinbrook Shire Council Schedule of Fees
+  and Charges</em> is the authoritative source.
+</p>
+
+<hr />
+
+<!-- ========================================================= -->
+<!-- 4. WATER & SEWERAGE                                      -->
+<!-- ========================================================= -->
+
+<h2>4. Water and Sewerage</h2>
+
+<h3>4.1 Overview</h3>
+<ul>
+  <li>Council provides water supply and sewerage services to serviced areas.</li>
+  <li>Charges are made up of access charges and, where applicable, usage charges.</li>
+  <li>Water quality and testing information is published regularly.</li>
+</ul>
+
+<h3>4.2 Typical Water & Sewerage Requests (Guideline SLA)</h3>
+<table border="1" cellpadding="4" cellspacing="0">
+  <tr>
+    <th>Request Type</th>
+    <th>Indicative Initial Response</th>
+    <th>Indicative Action</th>
+    <th>Council to Confirm</th>
+  </tr>
+  <tr>
+    <td>Water leak on Council main</td>
+    <td>Within 2 hours for urgent leaks</td>
+    <td>Make safe / isolate as soon as practicable; repair scheduled</td>
+    <td>Depends on severity and location.</td>
+  </tr>
+  <tr>
+    <td>Sewer overflow from Council asset</td>
+    <td>Within 2 hours</td>
+    <td>Attend and contain; clean-up arranged</td>
+    <td>High priority health risk.</td>
+  </tr>
+  <tr>
+    <td>New water connection / disconnection</td>
+    <td>Within 5–10 business days</td>
+    <td>Works completed typically within 20–40 business days</td>
+    <td>Subject to approvals and schedules.</td>
+  </tr>
+</table>
+
+<hr />
+
+<!-- ========================================================= -->
+<!-- 5. RATES & CHARGES                                       -->
+<!-- ========================================================= -->
+
+<h2>5. Rates and Charges</h2>
+
+<h3>5.1 General Information</h3>
+<ul>
+  <li>Rates notices are usually issued twice per year.</li>
+  <li>Notices show general rates, utility charges (water, sewerage, waste) and any
+      separate or special charges.</li>
+  <li>Interest may be charged on overdue rates in accordance with Council’s rate
+      setting resolutions and State legislation.</li>
+</ul>
+
+<h3>5.2 Payment Methods</h3>
+<ul>
+  <li>In person at Council’s Customer Service Centre.</li>
+  <li>BPAY (biller code and reference printed on notice).</li>
+  <li>Online via supported payment services (see website).</li>
+  <li>By mail (cheque or money order) with the payment slip.</li>
+  <li>Direct debit arrangements (subject to Council approval).</li>
+</ul>
+
+<h3>5.3 Rate Enquiry SLAs (Guideline)</h3>
+<table border="1" cellpadding="4" cellspacing="0">
+  <tr>
+    <th>Request Type</th>
+    <th>Indicative Response</th>
+    <th>Council to Confirm</th>
+  </tr>
+  <tr>
+    <td>Balance or simple account enquiry</td>
+    <td>At time of call or visit</td>
+    <td>Identity verification may be required.</td>
+  </tr>
+  <tr>
+    <td>Rates search / certificate</td>
+    <td>Within 5–10 business days</td>
+    <td>Fees apply as per Schedule of Fees and Charges.</td>
+  </tr>
+  <tr>
+    <td>Hardship application or payment arrangement</td>
+    <td>Acknowledged within 5 business days</td>
+    <td>Decisions may take longer depending on complexity.</td>
+  </tr>
+</table>
+
+<hr />
+
+<!-- ========================================================= -->
+<!-- 6. PETS & ANIMALS                                        -->
+<!-- ========================================================= -->
+
+<h2>6. Pets and Animals</h2>
+
+<h3>6.1 Registration Overview</h3>
+<ul>
+  <li>Dogs over a prescribed age must be registered in accordance with State law and
+      Council Local Laws.</li>
+  <li>New owners and residents must register eligible dogs within required timeframes.</li>
+  <li>Dogs must also be microchipped; Council may request proof of microchipping.</li>
+</ul>
+
+<h3>6.2 Example Dog Registration Fees (from a recent Schedule)</h3>
+<p>
+  The following values are indicative examples drawn from a recent Schedule of Fees
+  and Charges. They may be adjusted in later years and must be checked against the
+  current schedule for accuracy.
+</p>
+
+<table border="1" cellpadding="4" cellspacing="0">
+  <tr>
+    <th>Category</th>
+    <th>Example Fee</th>
+    <th>Unit</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>Puppy under three months at time of registration (where registration required)</td>
+    <td>$0.00</td>
+    <td>Per dog</td>
+    <td>No fee for very young animals in some schedules.</td>
+  </tr>
+  <tr>
+    <td>Desexed dog</td>
+    <td>Example: around $40–$45</td>
+    <td>Per dog per year</td>
+    <td>Exact amount confirmed in current Schedule of Fees & Charges.</td>
+  </tr>
+  <tr>
+    <td>Entire dog</td>
+    <td>Example: higher fee tier (over $100)</td>
+    <td>Per dog per year</td>
+    <td>Encourages desexing; check current schedule.</td>
+  </tr>
+  <tr>
+    <td>Assistance / working dog (with evidence)</td>
+    <td>$0.00</td>
+    <td>Per dog</td>
+    <td>Assistance and some working dogs are often free.</td>
+  </tr>
+  <tr>
+    <td>Declared dangerous / menacing dog</td>
+    <td>Higher regulatory fee</td>
+    <td>Per dog per year</td>
+    <td>Reflects additional monitoring and compliance.</td>
+  </tr>
+  <tr>
+    <td>Replacement registration tag</td>
+    <td>Modest fixed amount</td>
+    <td>Each</td>
+    <td>Exact fee listed in current Schedule.</td>
+  </tr>
+</table>
+
+<h3>6.3 Impounding and Animal Management (Example Fees)</h3>
+<p>
+  Council’s fees schedule includes specific amounts for:
+</p>
+<ul>
+  <li>Release fees for impounded dogs and cats.</li>
+  <li>Daily sustenance charges (weekday and weekend/public holiday).</li>
+  <li>Self-surrender of animals.</li>
+  <li>Permits to keep certain animals and breeder permits.</li>
+  <li>Trap hire and refundable bonds.</li>
+</ul>
+
+<p>
+  Exact amounts must always be checked against the current Schedule of Fees and
+  Charges adopted for the financial year.
+</p>
+
+<h3>6.4 Animal Management SLA (Guideline)</h3>
+<table border="1" cellpadding="4" cellspacing="0">
+  <tr>
+    <th>Request Type</th>
+    <th>Indicative Response</th>
+    <th>Council to Confirm</th>
+  </tr>
+  <tr>
+    <td>Simple rego or fee enquiry</td>
+    <td>Resolved during call or visit</td>
+    <td>Staff may direct to website/forms.</td>
+  </tr>
+  <tr>
+    <td>Barking dog complaint</td>
+    <td>Acknowledgement within 5–10 business days</td>
+    <td>Full investigation time varies.</td>
+  </tr>
+  <tr>
+    <td>Wandering dog (non-urgent)</td>
+    <td>Within a few days</td>
+    <td>Responded to via patrols and enforcement program.</td>
+  </tr>
+  <tr>
+    <td>Aggressive dog incident (safety risk)</td>
+    <td>Same day, treated as urgent</td>
+    <td>May involve Police and strict compliance actions.</td>
+  </tr>
+</table>
+
+<hr />
+
+<!-- ========================================================= -->
+<!-- 7. ROADS & DRAINAGE                                      -->
+<!-- ========================================================= -->
+
+<h2>7. Roads, Drainage and Public Works</h2>
+
+<h3>7.1 Responsibilities</h3>
+<ul>
+  <li>Council manages local roads, footpaths and stormwater drainage.</li>
+  <li>State-controlled roads are managed by the Queensland Department of Transport
+      and Main Roads; those conditions are published via QLDTraffic.</li>
+</ul>
+
+<h3>7.2 Common Requests</h3>
+<ul>
+  <li>Potholes and surface failures on local roads.</li>
+  <li>Blocked drains or culverts.</li>
+  <li>Damaged or missing local road signs.</li>
+  <li>Trees or debris on local roads.</li>
+</ul>
+
+<h3>7.3 Indicative Roads SLA (Guideline)</h3>
+<table border="1" cellpadding="4" cellspacing="0">
+  <tr>
+    <th>Issue</th>
+    <th>Indicative Response</th>
+    <th>Indicative Resolution</th>
+    <th>Council to Confirm</th>
+  </tr>
+  <tr>
+    <td>Life-threatening hazard (major washout, tree blocking entire road)</td>
+    <td>Immediate escalation; treated as emergency</td>
+    <td>Make safe as soon as possible; full repair later</td>
+    <td>Residents should also contact emergency services if at risk.</td>
+  </tr>
+  <tr>
+    <td>Serious but non-life-threatening hazard</td>
+    <td>Within 1–2 business days</td>
+    <td>Short-term fix within 5–10 business days; full repair in program</td>
+    <td>Priority based on traffic volume and risk.</td>
+  </tr>
+  <tr>
+    <td>Minor pothole / nuisance defect</td>
+    <td>Within 5–10 business days</td>
+    <td>Incorporated into routine maintenance</td>
+    <td>Council can refine timeframes.</td>
+  </tr>
+  <tr>
+    <td>Blocked drain not threatening property</td>
+    <td>Within 5–10 business days</td>
+    <td>Scheduled maintenance</td>
+    <td>Urgent if risk of property inundation.</td>
+  </tr>
+</table>
+
+<hr />
+
+<!-- ========================================================= -->
+<!-- 8. PLANNING, BUILDING & PLUMBING                         -->
+<!-- ========================================================= -->
+
+<h2>8. Planning, Building and Plumbing</h2>
+
+<h3>8.1 Planning</h3>
+<ul>
+  <li>Development is regulated by the Planning Act 2016 and the Hinchinbrook Shire
+      Planning Scheme.</li>
+  <li>Applications may be required for:
+    <ul>
+      <li>Material change of use (MCU)</li>
+      <li>Reconfiguring a lot (subdivision)</li>
+      <li>Operational works</li>
+    </ul>
+  </li>
+  <li>Some building certification services are provided via a fee quote process
+      (Price on Application).</li>
+</ul>
+
+<h3>8.2 Building & Plumbing</h3>
+<ul>
+  <li>Building certifiers (often private) handle building approvals; Council handles
+      certain plumbing approvals and infrastructure connections.</li>
+  <li>The Fees and Charges schedule includes:
+    <ul>
+      <li>Building, plumbing and drainage fees.</li>
+      <li>Building record search fees.</li>
+      <li>Inspection and compliance fees.</li>
+    </ul>
+  </li>
+</ul>
+
+<h3>8.3 Indicative Planning / Building SLA (Guideline)</h3>
+<table border="1" cellpadding="4" cellspacing="0">
+  <tr>
+    <th>Request Type</th>
+    <th>Indicative Response</th>
+    <th>Council to Confirm</th>
+  </tr>
+  <tr>
+    <td>General planning enquiry</td>
+    <td>Within 5–10 business days</td>
+    <td>Timeframe varies by complexity.</td>
+  </tr>
+  <tr>
+    <td>Information request on lodged DA</td>
+    <td>Within 5–10 business days</td>
+    <td>Formal information requests follow statutory timeframes.</td>
+  </tr>
+  <tr>
+    <td>Building record search</td>
+    <td>Within 10 business days (standard)</td>
+    <td>Priority services may attract higher fees.</td>
+  </tr>
+  <tr>
+    <td>Plumbing application</td>
+    <td>Acknowledgement within 5 business days</td>
+    <td>Decision timeframe depends on assessment and workload.</td>
+  </tr>
+</table>
+
+<hr />
+
+<!-- ========================================================= -->
+<!-- 9. COMMUNITY FACILITIES                                  -->
+<!-- ========================================================= -->
+
+<h2>9. Community Facilities</h2>
+
+<h3>9.1 Libraries</h3>
+<p>
+  Library services are provided at Ingham and Halifax. Core services include lending,
+  access to computers and Wi-Fi, children’s programs, events and local history.
+
+</p>
+
+<h3>9.2 Hinchinbrook Aquatic Centre</h3>
+<ul>
+  <li>Located in Ingham; provides swimming, learn-to-swim, aquatic programs and
+      recreation facilities.</li>
+  <li>Opening hours vary by season; current times are published on Council’s website.</li>
+  <li>Entry fees (adult, child, concession, spectator, season passes) are listed in the
+      Schedule of Fees and Charges.</li>
+</ul>
+
+<h3>9.3 Halls, TYTO Precinct and Other Facilities</h3>
+<ul>
+  <li>Halls and community venues are available for hire for events and activities.</li>
+  <li>TYTO precinct facilities (e.g. gallery space, meeting rooms) may have hire fees
+      and commission structures for exhibitions.</li>
+  <li>All hire, bond and use fees are set out in the Schedule of Fees and Charges.</li>
+</ul>
+
+<hr />
+
+<!-- ========================================================= -->
+<!-- 10. CEMETERIES                                           -->
+<!-- ========================================================= -->
+
+<h2>10. Cemeteries</h2>
+
+<h3>10.1 Cemeteries Managed by Council</h3>
+<ul>
+  <li>New Ingham Cemetery</li>
+  <li>Old Ingham Cemetery</li>
+  <li>Halifax Cemetery</li>
+</ul>
+
+<p>
+  Council offers reservation of grave plots, interments, columbarium niches, mausoleum
+  vaults, memorials and exhumations.
+</p>
+
+<h3>10.2 Example Cemetery Fees (from a recent Schedule)</h3>
+<p>
+  The Schedule of Fees and Charges provides detailed pricing for cemetery services.
+  The items below are typical examples only and may be revised annually.
+</p>
+
+<table border="1" cellpadding="4" cellspacing="0">
+  <tr>
+    <th>Category</th>
+    <th>Example Item</th>
+    <th>Description</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>Reservations</td>
+    <td>Burial plot reservation</td>
+    <td>Reservation of a standard grave plot at a Council cemetery.</td>
+    <td>Fee payable at time of reservation.</td>
+  </tr>
+  <tr>
+    <td>Reservations</td>
+    <td>Columbarium niche (single/double)</td>
+    <td>Reservation of ash niche in Council or RSL wall.</td>
+    <td>Different fees for single vs double niches.</td>
+  </tr>
+  <tr>
+    <td>Interments</td>
+    <td>Inground burial (adult)</td>
+    <td>Burial fee for adult interment.</td>
+    <td>Children’s burials usually at a reduced fee.</td>
+  </tr>
+  <tr>
+    <td>Other</td>
+    <td>Cemetery works permit</td>
+    <td>Permit fee to erect or alter monuments/headstones.</td>
+    <td>Cleaning bonds and slab bonds may also apply.</td>
+  </tr>
+  <tr>
+    <td>Records</td>
+    <td>Burial records search</td>
+    <td>Fee for searching and providing information from cemetery records.</td>
+    <td>Often charged per name or per search.</td>
+  </tr>
+</table>
+
+<h3>10.3 Cemetery SLA (Guideline)</h3>
+<table border="1" cellpadding="4" cellspacing="0">
+  <tr>
+    <th>Request Type</th>
+    <th>Indicative Response</th>
+    <th>Council to Confirm</th>
+  </tr>
+  <tr>
+    <td>Burial booking via funeral director</td>
+    <td>Coordinated within 1–2 business days (or earlier as arranged)</td>
+    <td>Timing depends on cemetery availability and religious/cultural needs.</td>
+  </tr>
+  <tr>
+    <td>Cemetery records search</td>
+    <td>Within 5–10 business days</td>
+    <td>Fees apply as per Schedule.</td>
+  </tr>
+  <tr>
+    <td>Monument application</td>
+    <td>Assessment timeframe advised upon application</td>
+    <td>Must comply with cemetery and Local Law standards.</td>
+  </tr>
+</table>
+
+<hr />
+
+<!-- ========================================================= -->
+<!-- 11. DISASTER & EMERGENCY INFORMATION                     -->
+<!-- ========================================================= -->
+
+<h2>11. Disaster and Emergency Information</h2>
+
+<h3>11.1 Disaster Dashboard</h3>
+<ul>
+  <li><strong>Hinchinbrook Disaster Dashboard:</strong>
+    <a href="https://disaster.hinchinbrook.qld.gov.au/">https://disaster.hinchinbrook.qld.gov.au/</a>
+  </li>
+  <li>Provides:
+    <ul>
+      <li>Local road conditions (open/closed/restricted).</li>
+      <li>River heights, cameras and flood information.</li>
+      <li>Local disaster news and emergency updates.</li>
+      <li>Links to Bureau of Meteorology warnings and QLDTraffic.</li>
+    </ul>
+  </li>
+</ul>
+
+<h3>11.2 Alerts and Notifications</h3>
+<ul>
+  <li>Residents can opt-in for:
+    <ul>
+      <li>Weather warnings for selected locations.</li>
+      <li>Emergency news updates.</li>
+      <li>River height alerts for particular gauges and levels.</li>
+    </ul>
+  </li>
+</ul>
+
+<h3>11.3 Key Emergency Contacts</h3>
+<table border="1" cellpadding="4" cellspacing="0">
+  <tr><th>Service</th><th>Contact</th><th>Use</th></tr>
+  <tr>
+    <td>Life-threatening emergency</td>
+    <td>000</td>
+    <td>Police, Fire, Ambulance.</td>
+  </tr>
+  <tr>
+    <td>SES (storm and flood assistance)</td>
+    <td>132 500</td>
+    <td>For non-life-threatening storm and flood events.</td>
+  </tr>
+  <tr>
+    <td>Hinchinbrook Shire Council</td>
+    <td>(07) 4776 4600</td>
+    <td>Local roads, waste, water, general Council services.</td>
+  </tr>
+  <tr>
+    <td>QLDTraffic</td>
+    <td>13 19 40 / online</td>
+    <td>State-controlled road conditions.</td>
+  </tr>
+  <tr>
+    <td>Bureau of Meteorology</td>
+    <td>www.bom.gov.au</td>
+    <td>Weather warnings, forecasts and observations.</td>
+  </tr>
+</table>
+
+<hr />
+
+<!-- ========================================================= -->
+<!-- 12. QUICK REFERENCE INDEX                                -->
+<!-- ========================================================= -->
+
+<h2>12. Quick Reference Index</h2>
+
+<table border="1" cellpadding="4" cellspacing="0">
+  <tr><th>Topic</th><th>Section</th></tr>
+  <tr>
+    <td>General contact details</td>
+    <td>1.2</td>
+  </tr>
+  <tr>
+    <td>Mayor and Councillors</td>
+    <td>1.4</td>
+  </tr>
+  <tr>
+    <td>Customer service standards</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Kerbside waste and recycling</td>
+    <td>3.1–3.3</td>
+  </tr>
+  <tr>
+    <td>Replacement bins and parts</td>
+    <td>3.4</td>
+  </tr>
+  <tr>
+    <td>Waste facilities and gate fees (snapshot)</td>
+    <td>3.5</td>
+  </tr>
+  <tr>
+    <td>Water and sewerage issues</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>Rates and payment</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>Dog registration and animal management</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>Roads and drainage</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td>Planning, building and plumbing</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>Libraries, aquatic centre, halls</td>
+    <td>9</td>
+  </tr>
+  <tr>
+    <td>Cemeteries and cemetery fees overview</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>Disaster Dashboard and emergencies</td>
+    <td>11</td>
+  </tr>
+</table>
+
+<p>
+  End of Hinchinbrook Shire Council — MAX Knowledge Base.
+  Council officers can refine SLAs and fee snapshots in this document to match the
+  adopted Customer Experience Strategy and the current Schedule of Fees and Charges.
+</p>
+
+</body>
+</html>
